@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "Heranian Empire",
+    "leaderName": "Yarova",
+    "adjective": ["Heranian"],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "cities": [
+      "Herania",
+      "Aurelia",
+      "Bastion",
+      "Starfall",
+      "Valoria",
+      "Eryndor"
+    ]
+  }
+]
