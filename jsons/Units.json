@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Heranian Scout",
+    "unitType": "Scout",
+    "cost": 25,
+    "movement": 2,
+    "strength": 5,
+    "uniqueTo": "Heranian Empire"
+  }
+]
